@@ -1,0 +1,8 @@
+<!--pages/index/index.wxml-->
+  <view class="box">
+  <text class="item1">制作人：黄钰翔</text>
+  <text class="item1">
+  年级：大二</text>
+  <text class="item1">爱好：运动，旅游</text>
+  <text class="item1">特长：社交</text>
+  </view>
